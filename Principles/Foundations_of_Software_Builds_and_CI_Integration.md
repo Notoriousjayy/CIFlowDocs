@@ -3,6 +3,9 @@
 **What is a Build?**  
 A build refers to the comprehensive process of creating a functional version of software. It involves compiling the code, running automated tests, integrating various components, and ensuring the software operates as a unified system. This process verifies that changes made by developers, database administrators, or configuration teams integrate seamlessly and maintain software reliability.
 
+![Example SVG](ContinuousIntegrationSystem.svg)
+
+![Example SVG](ContinuousIntegrationSequenceDiagram.svg)
 ---
 
 ### Developer
@@ -636,6 +639,8 @@ A **Continuous Integration (CI)** system is built upon a few fundamental compone
    - **Example**: Jenkins polling a Git repository every 5 minutes and running an automated pipeline when changes are detected.
 
 ---
+
+![Example SVG](ContinuousIntegrationComponents.svg)
 
 ### The Importance of These Components
 
