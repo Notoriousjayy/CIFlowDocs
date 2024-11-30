@@ -1,4 +1,5 @@
-![Example SVG](BuildSoftwareNode.svg)\n
+![Example SVG](BuildSoftwareNode.svg)
+
 **What is a Build?**  
 A build refers to the comprehensive process of creating a functional version of software. It involves compiling the code, running automated tests, integrating various components, and ensuring the software operates as a unified system. This process verifies that changes made by developers, database administrators, or configuration teams integrate seamlessly and maintain software reliability.
 
