@@ -802,7 +802,9 @@ Every action triggered by the integrate button feeds into the **feedback mechani
 
 ---
 
-### **Integrating Database Changes**
+### **Database Integration**
+
+![Example SVG](DatabaseIntegrationDesign.svg)
 
 Managing database schema changes is a critical part of Continuous Integration and Deployment workflows. Tools like **Liquibase** and **Flyway** enable teams to automate and standardize schema changes across environments, ensuring consistency and reliability.
 
