@@ -137,4 +137,10 @@ These reports serve as a single source of truth during the release process. For 
 
 By automating build feedback reports and combining them with thorough manual testing, teams can maintain high-quality releases and ensure that each build meets user expectations and technical requirements.
 
-## Possess Capability to Roll Back Release
+## Enable the Ability to Roll Back Releases  
+
+The ability to swiftly revert to a previous deployment is a critical component of any robust software development and release process. There are instances when newly deployed code introduces defects that disrupt operations, requiring teams to replace it quickly with a previously stable version. By leveraging build and repository labels, teams can efficiently identify and redeploy the desired version.
+
+For instance, imagine the QA team receives build `89_3.04`, which was expected to resolve several high-priority issues. However, upon deployment, a significant yet subtle defect is discovered that halts further testing. In this case, rolling back to the prior stable build (`89_3.03`) ensures minimal disruption. The QA team can resume testing on the earlier version without losing valuable time and can continue logging defects against it.
+
+Having a rollback mechanism in place prevents prolonged downtime and reduces the risk associated with failed deployments. This capability not only supports faster recovery but also provides confidence that the system can quickly return to a known working state when issues arise.
