@@ -1,5 +1,5 @@
 # **Getting Started**  
-**Questions**  
+
 How do you know you are doing CI correctly? These questions can help you decide what’s missing on your projects.
 
 - Are you using a version control repository (or SCM tool)?  
@@ -13,7 +13,7 @@ How do you know you are doing CI correctly? These questions can help you decide 
 
 
 # **Introducing Continuous Integration**  
-**Questions**  
+
 Practicing CI is more than installing and configuring some tools. How many of the following items are you consistently performing on your project? How many of the other CI practices can improve your development capabilities?
 
 - On average, is everyone on your team committing code at least once a day? Are you employing techniques to make it easier to commit code often?  
@@ -27,7 +27,7 @@ Practicing CI is more than installing and configuring some tools. How many of th
 
 
 # **Reducing Risks Using CI**  
-**Questions**  
+
 How many risks do you have on your project that CI can help mitigate? These questions should help you determine the risks on your project.
 
 - When do you find the most defects on your project, in the beginning or in later parts of the lifecycle?  
@@ -58,7 +58,7 @@ How many risks do you have on your project that CI can help mitigate? These ques
 
 
 # **Continuous Database Integration**  
-**Questions**  
+
 These questions can help you determine your level of automation and continuous database integration.
 
 - Are you capable of recreating your database from your automated build process? Can you rebuild your database at the “push of a button?”  
@@ -72,7 +72,7 @@ These questions can help you determine your level of automation and continuous d
 
 
 # **Continuous Testing**  
-**Questions**  
+
 Use this list of questions to evaluate your test process in light of the CI environment and what it can provide for you.
 
 - Are you categorizing your automated tests, such as unit tests, component tests, system tests, and functional tests?  
@@ -84,7 +84,7 @@ Use this list of questions to evaluate your test process in light of the CI envi
 
 
 # **Continuous Inspection**  
-**Questions**  
+
 The following questions will help you devise your own continuous inspection process.
 
 - Do you perform unit testing sporadically, periodically, or continuously? How often do you run your full unit, component, and system test coverage review?  
@@ -99,7 +99,7 @@ The following questions will help you devise your own continuous inspection proc
 
 
 # **Continuous Deployment**  
-**Questions**  
+
 Are your deployments automated? How quickly are you able to get a release out into production? How quickly are you able to get the software into your development or test environment? Use these questions to determine your project’s capability to continuously deploy software.
 
 - Do you possess the capability to roll back a release?  
@@ -116,7 +116,7 @@ Are your deployments automated? How quickly are you able to get a release out in
 
 
 # **Continuous Feedback**  
-**Questions**  
+
 Here is a handy list of considerations to help you develop continuous feedback mechanisms in your development environment.
 
 - Have you automated your feedback processes?  
